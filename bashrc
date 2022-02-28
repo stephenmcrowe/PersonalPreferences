@@ -1,0 +1,9 @@
+# Custom aliases
+alias ll='ls -tl'
+alias ga='git add'
+alias gc='git commit'
+alias gs='git status'
+alias gl='git log'
+alias gpush='git push'
+alias gpull='git pull'
+alias jp='jupyter notebook'
