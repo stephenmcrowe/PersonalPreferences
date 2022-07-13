@@ -1,8 +1,11 @@
 # Installation of preferences
 
 ### Color Theme
-* VScode plugin "Better Solarized"
+* VScode extension "Better Solarized"
 * Builtin Solarized Dark for iTerm2
+
+* Tomorrow Theme Night (VScode and iTerm2)
+* Morpheon Dark (Google chrome theme)
 
 ### Formatting
 * Python
