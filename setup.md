@@ -1,16 +1,31 @@
 # Installation of preferences
 
+### Terminal and shell
+* iterm2
+* zsh
+
+### Early installations
+* Homebrew
+* Command line tools for git
+* oh my zsh
+  * plugins
+    * git
+    * gitfast
+    * kubectl
+    * ssh-agent
+  * theme
+    * simple
+
 ### Color Theme
-* VScode extension "Better Solarized"
-* Builtin Solarized Dark for iTerm2
+* ~~VScode extension "Better Solarized"~~
+* ~~Builtin Solarized Dark for iTerm2~~
 
 * Tomorrow Theme Night (VScode and iTerm2)
 * Morpheon Dark (Google chrome theme)
-* Dark Reader
+* Dark Reader extension
+* ohmyzsh theme: simple
 
 ### Extra installations
-* Homebrew
-* Command line tools for git
 * Docker desktop
 * pyenv for local python
 * poetry for package management
@@ -19,8 +34,6 @@
 * ssh key added to github account
 * new email added
 * if signed commits, GNUPG (gpg)
-* git branch in prompt
-* git branch autocomplete
 
 ### Formatting
 * Python
