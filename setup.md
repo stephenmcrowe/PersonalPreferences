@@ -34,6 +34,7 @@
 * ssh key added to github account
 * new email added
 * if signed commits, GNUPG (gpg)
+  * Use signed commits with the -S flag
 
 ### Formatting
 * Python
